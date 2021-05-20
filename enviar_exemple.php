@@ -2,8 +2,8 @@
 
 // Mudar Aqui
 
-$email_envio = 'leokattah@gmail.com'; // E-mail receptor
-$email_pass = 'Subway-01'; // Senha do e-mail
+$email_envio = ''; // E-mail receptor
+$email_pass = ''; // Senha do e-mail
 
 $site_name = ''; // Nome do Site
 $site_url = ''; // URL do Site

@@ -1,7 +1,7 @@
 // Formulario
 
 $('.formphp').on('submit', function() {
-	var emailContato = ""; // Escreva aqui o seu e-mail
+	var emailContato = "leokattah@gmail.com"; // Escreva aqui o seu e-mail
 
 	var that = $(this),
 			url = that.attr('action'),
