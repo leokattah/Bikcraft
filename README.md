@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-<a href = 'https://github.com/leokattah/Bikcraft/blob/main/img/thumbnail.png'>
+<img href = 'https://github.com/leokattah/Bikcraft/blob/main/img/thumbnail.png'>
 </div>
 
 <div align="center">
