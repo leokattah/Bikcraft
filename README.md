@@ -23,9 +23,8 @@
   
 </div>
 
-<div align="center">
-<img href = 'https://github.com/leokattah/Bikcraft/blob/main/img/thumbnail.png'>
-</div>
+![thumbnail](https://user-images.githubusercontent.com/64365302/119115871-0b754a80-b9fe-11eb-8b07-20045734c6e1.png)
+
 
 <div align="center">
   <h2>Planejamento</h2>
