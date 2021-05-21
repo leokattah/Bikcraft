@@ -1,6 +1,6 @@
 <div align = "center"> 
-![bikcraft-qualidade](https://user-images.githubusercontent.com/64365302/119116060-42e3f700-b9fe-11eb-8a67-d5511653b469.png)>
-
+![bikcraft-qualidade](https://user-images.githubusercontent.com/64365302/119116060-42e3f700-b9fe-11eb-8a67-d5511653b469.png)
+</div>
   
   <h4 align="center" font-size="20px">Website de vendas de Bicicletas Personalizadas. Prototipado no Figma e codificado com HTML, CSS, JavaScript e PHP para fins de aprendizado.
   Acesse em  <a href="https://bikcraft2-tau.vercel.app/">https://bikcraft2-tau.vercel.app/</a>
